@@ -9,26 +9,26 @@
 ## 项目案例列表
 
 - [Valo Reader](#valo-reader)
-  - 英语阅读效率工具
-  - Desktop/Mobile/Web/Flutter
+  - 应用品类：英语阅读效率工具
+  - 主要技术栈：Desktop/Mobile/Web/Flutter
 - [Tbay](#tbay---杭州曦腾科技有限公司)
-  - 礼品卡
-  - Android/Flutter
+  - 应用品类：礼品卡
+  - 主要技术栈：Android/Flutter
 - [Cardgoal](#cardgoal---杭州曦腾科技有限公司)
-  - 礼品卡
-  - Flutter
+  - 应用品类：礼品卡
+  - 主要技术栈：Flutter
 - [Situne](#situne---杭州曦腾科技有限公司)
-  - 跨境电商
-  - Flutter
+  - 应用品类：跨境电商
+  - 主要技术栈：Flutter
 - [名丝美发教育](#名丝美发教育---杭州和聊科技股份有限公司)
-  - 门店消费
-  - React Native
-- [和聊](#和聊---杭州和聊科技股份有限公司)
-  - 商务社交
-  - iOS/React Native
+  - 应用品类：门店消费
+  - 主要技术栈：React Native
 - [轻课堂](#轻课堂---杭州和聊科技股份有限公司)
-  - 在线教育
-  - iOS
+  - 应用品类：在线教育
+  - 主要技术栈：iOS/UIKit
+- [和聊](#和聊---杭州和聊科技股份有限公司)
+  - 应用品类：商务社交
+  - 主要技术栈：iOS/React Native
 
 ## 项目案例详情
 
@@ -99,13 +99,17 @@ Google Play 开发者后台截图
 
 - [App Store](https://apps.apple.com/az/app/%E5%90%8D%E4%B8%9D%E7%BE%8E%E5%8F%91%E6%95%99%E8%82%B2/id1566811877)
 
-### 和聊 - 杭州和聊科技股份有限公司
-
-- [App Store](https://apps.apple.com/hk/app/%E5%92%8C%E8%81%8A-%E4%BA%BA%E8%84%89%E6%88%90%E5%B0%B1%E4%BA%8B%E4%B8%9A/id542575938)
-
 ### 轻课堂 - 杭州和聊科技股份有限公司
 
+这是一个 K12 线上教育平台，我完整搭建了整个 iOS 项目的框架，并负责了整个 iOS 的开发流程
+
 - [App Store](https://apps.apple.com/cn/app/%E8%BD%BB%E8%AF%BE%E5%A0%82/id1423061917)
+
+### 和聊 - 杭州和聊科技股份有限公司
+
+该项目构建了一个商务社交平台。在移动端，该项目主要为用户提供了动态，好友列表，聊天，付费咨询，电商等功能。
+
+- [App Store](https://apps.apple.com/hk/app/%E5%92%8C%E8%81%8A-%E4%BA%BA%E8%84%89%E6%88%90%E5%B0%B1%E4%BA%8B%E4%B8%9A/id542575938)
 
 ## 情况总结
 
