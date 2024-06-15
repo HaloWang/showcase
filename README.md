@@ -4,7 +4,7 @@
 
 - [项目案例列表](#项目案例列表)
 - [项目案例详情](#项目案例详情)
-- [总结](#总结)
+- [情况总结](#情况总结)
 
 ## 项目案例列表
 
@@ -107,7 +107,7 @@ Google Play 开发者后台截图
 
 - [App Store](https://apps.apple.com/cn/app/%E8%BD%BB%E8%AF%BE%E5%A0%82/id1423061917)
 
-## 总结
+## 情况总结
 
 - 我能独立完成将一个 App 从开发到上架的全部流程，包括
   - 开发者账号注册与申请
@@ -115,9 +115,13 @@ Google Play 开发者后台截图
   - 在 iOS / Android / Windows / macOS / Web 上进行编码实现
   - 打包程序并上传至各大应用市场
   - 根据反馈及时修改 bug，通过上传新包或者热更新的方式解决 bug
-- 我的技术栈如下，按照熟练程度和经验从高到低排序
+- 相比于其他开发者
+  - 我的学习能力很强，能快速根据文档集成国外 API 服务
+  - 在调用国外第三方开发者服务方面有大量的经验
+  - 有强烈的使用英语的倾向
+- 我的技术栈非常广泛，按照熟练程度和经验从高到低排序
   - Flutter / dart
   - iOS / macOS / UIKit / ObjC / Swift
-  - Android / Java / Kotlin
   - Web / React / React Naitve / Taro.js / Ant Design
+  - Android / Java / Kotlin
   - Windows / C++ / win32 / winrt
